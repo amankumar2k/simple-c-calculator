@@ -24,7 +24,7 @@
 Enter The First Number: 
 60
 Enter An Operator (+, -, *, /, %): 
-+
+(+)
 Enter The Second  Number: 
 30
 The Sum Is =90
@@ -44,7 +44,7 @@ The Difference Is =30
 Enter The First Number: 
 60
 Enter An Operator (+, -, *, /, %): 
-x
+(x)
 Enter The Second  Number: 
 30
 The Product  Is =1800
@@ -54,7 +54,7 @@ The Product  Is =1800
 Enter The First Number: 
 60
 Enter An Operator (+, -, *, /, %): 
-/
+(/)
 Enter The Second  Number: 
 30
 The  Result  Is =1800
@@ -64,7 +64,7 @@ The  Result  Is =1800
 Enter The First Number: 
 60
 Enter An Operator (+, -, *, /, %): 
-%
+(%)
 Enter The Second  Number: 
 30
 The Modulo   Is =0
