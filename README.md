@@ -1,6 +1,6 @@
 #  Simple Calculator.
 
-## Introduction
+## Introduction:
 
 > This  Is  A  Basic  Calculator  in C  programming  using  the  switch  statement. This  program   takes  an  arithmetic  operator  [+, -, *, /, %] and  two operands  from  the  user. Then, it  performs  the  calculation  on  the  two operands  depending  upon  the  operator  entered  by  the  user.
 
