@@ -17,7 +17,7 @@
 <p>*In this Program the user is prompted to choose the operations (i.e. addition, subtraction,Multiplication etc.)  to be performed and then prompted to key in the values which are used to perform the operations. Then, the result will be shown as output to the user.</p>
 
 
-<h2>Output:</h2>
+<h2>Possible Outputs:</h2>
 <pre>
 ******Calculator******
 
@@ -68,6 +68,7 @@ Enter An Operator (+, -, *, /, %):
 Enter The Second  Number: 
 30
 The Modulo   Is =0
+
 
 
 END.
